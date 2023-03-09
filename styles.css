@@ -1,4 +1,5 @@
 .holder{
-	display: grid;
+	display: grid,
+		grid-template-columns: 100px 100px;
 }
 /* Your CSS Code here. */
